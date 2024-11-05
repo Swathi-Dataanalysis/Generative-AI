@@ -1,1 +1,2 @@
-# Generative-AI
+# langchain
+Tutorial for langchain LLM library
